@@ -1,5 +1,6 @@
 // ProgrammingAssignment1A //
-// Rob Shiner //
+
+// This program, when given a number, will convert it to the time in hours, minutes and seconds //
 
 #include <iostream>
 using namespace std;
