@@ -1,5 +1,4 @@
 // Programming Assignment 2 //
-// Rob Shiner //
 
 #include <iostream>
 #include <string>
