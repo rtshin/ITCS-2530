@@ -1,6 +1,5 @@
 // ITCS2530Assign3.cpp //
 
-
 // Write a Item Shipping Calculator program that does the following ... //
 // Prompt and retrieve the following input from the user(through the console) : //
 // Item name //
